@@ -28,7 +28,8 @@ Soy un desarrollador web en crecimiento, especializado en **front-end** y actual
 
 
 
-## <p align="center">
+## 
+<p align="center">
   ¡Contactame! 
 </p>
 
