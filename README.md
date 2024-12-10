@@ -27,3 +27,12 @@ Soy un desarrollador web en crecimiento, especializado en **front-end** y actual
 - Convertirme en desarrollador web full-stack.
 - Contribuir a proyectos significativos y seguir aprendiendo nuevas tecnologías.
 
+<p align="center">
+  Contactame:
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/facundo-nahuel-rodríguez-pérez">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
